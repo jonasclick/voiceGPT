@@ -35,7 +35,7 @@ You can read more in the OpenAI documentation [here](https://platform.openai.com
 ## Setup
 
 1. **API Key:** Generate a personal API key for yourself [here](https://platform.openai.com/api-keys). Do not share this key with anyone.
-2. **Download the Script:** Download the script to your local machine.
+2. **Download the Script:** Download the script "v2 voiceGPT.py" to your local machine.
 3. **Install Dependencies:** Make sure you have the following dependencies installed:
 
 ```bash
