@@ -19,7 +19,12 @@ Now you can just speak to ChatGPT and listen to the answer. Like real humans do 
 – Plays the audio file
 
 ## 🌍 Language Support
-Tested and loved in multiple languages! While English, German, French, and Spanish sound natural, Thai might come with an amusing American accent. A delightful blend of global cultures meeting AI!
+You can expect good results when transcribing the following languages:  
+Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Latvian, Lithuanian, Macedonian, Malay, Marathi, Maori, Nepali, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian, Urdu, Vietnamese, and Welsh.  
+
+Other languages might work, but the results may be of low quality.  
+
+You can read more in the OpenAI documentation [here](https://platform.openai.com/docs/guides/speech-to-text/quickstart).  
 
 ## Requirements  
 
