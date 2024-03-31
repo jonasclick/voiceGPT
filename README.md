@@ -18,9 +18,33 @@ Now you can just speak to ChatGPT and listen to the answer. Like real humans do 
 – Turns the (written) answer into speech (using OpenAI's Text-To-Speech)  
 – Plays the audio file
 
-
 ## 🌍 Language Support
 Tested and loved in multiple languages! While English, German, French, and Spanish sound natural, Thai might come with an amusing American accent. A delightful blend of global cultures meeting AI!
+
+## Requirements  
+
+1. **OpenAI Plus Account:** To use this script, you need an OpenAI Plus account, which costs $20 per month.
+2. **Available Balance:** Ensure you have a sufficient balance in your OpenAI Plus account. You can check your balance [here](https://platform.openai.com/account/billing/overview).
+   - Your OpenAI Plus account operates similarly to a phone plan with both a monthly subscription and a prepaid balance. Make sure you have funds in your prepaid balance.
+  
+## Setup
+
+1. **API Key:** Generate a personal API key for yourself [here](https://platform.openai.com/api-keys). Do not share this key with anyone.
+2. **Download the Script:** Download the script to your local machine.
+3. **Install Dependencies:** Make sure you have the following dependencies installed:
+
+```bash
+pip install python-dotenv
+pip install --upgrade openai
+pip install customtkinter
+pip install pyaudio
+pip install pygame
+```
+
+4. **Run the Script:** On first execution navigate to "Settings" and enter the API Key you want to use. Your key will then be stored in an .env file locally in the same folder as the script. Your key will not be shared. Do not share your key.
+5. **Test it out:** Click "Record" and start speaking. Have fun!  
+
+You can monitor the usage of your balance [here](https://platform.openai.com/usage). This way you always keep an overview of the cost of your usage.
 
 ## ⚠️ Disclaimers
 - **AI-Generated Responses**: Remember, the voice you hear is AI-generated. ChatGPT doesn't embody a real person. Always cross-verify crucial information.
