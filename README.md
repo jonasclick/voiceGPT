@@ -1,5 +1,8 @@
 # voiceGPT: A Voice-Interactive ChatGPT Experience
 
+Please note: I created this app before ChatGPT was easily available in a voice-interactive way on your smartphone, like it is today.
+
+
 This app let's you voice interact with ChatGPT instead of typing and reading.
 
 It's amazing how ChatGPT responds almost like a real human, right?
